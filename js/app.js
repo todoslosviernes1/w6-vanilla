@@ -1,39 +1,39 @@
 const container = document.querySelector(".container");
 const coffees = [
   {
-    name: "Perspiciatis",
+    name: "Valencia (28)",
     image: "images/coffee1.jpg"
   },
   {
-    name: "Voluptatem",
+    name: "Naguanagua (28)",
     image: "images/coffee2.jpg"
   },
   {
-    name: "Explicabo",
+    name: "Unv. Carabobo (28)",
     image: "images/coffee3.jpg"
   },
   {
-    name: "Rchitecto",
+    name: "Biglow Center(28)",
     image: "images/coffee4.jpg"
   },
   {
-    name: " Beatae",
+    name: " Unv. JoseA.Paez (28)",
     image: "images/coffee5.jpg"
   },
   {
-    name: " Vitae",
+    name: "Unv. Arturo Michelena (28)",
     image: "images/coffee6.jpg"
   },
   {
-    name: "Inventore",
+    name: "Turismo Playa (12)",
     image: "images/coffee7.jpg"
   },
   {
-    name: "Veritatis",
+    name: "Estados Vzla (24)",
     image: "images/coffee8.jpg"
   },
   {
-    name: "Accusantium",
+    name: "Estados Vzla (29)",
     image: "images/coffee9.jpg"
   }
 ];
