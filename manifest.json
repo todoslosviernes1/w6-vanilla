@@ -1,11 +1,15 @@
 {
-  "name": "Dev'Coffee",
-  "short_name": "ww6",
+  "name": "Web'App",
+  "short_name": "ww6a",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#fdfdfd",
   "theme_color": "#db4938",
   "orientation": "portrait-primary",
+  
+  "manifest_version": 2,
+  "version": "0.1"
+  
   "icons": [
     {
       "src": "/images/icons/icon-72x72.png",
